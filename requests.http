@@ -1,5 +1,5 @@
 # Create
-POST http://127.0.0.1:5000/advert
+POST http://127.0.0.1:5000/advert/
 Content-Type: application/json
 
 {
